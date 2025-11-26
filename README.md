@@ -7,7 +7,7 @@
     <tr>
       <td align="left" style="width: 50%;">
         <h1 align="center" style="font-size: 3em; margin-bottom: 0; ">ﻬஐﻬ 天野 順 ﻬஐﻬ</h1>
-        <img src="https://github.com/goldsun2050-dev/goldsun2050-dev/blob/main/cover-image-hacker.jpg" alt="cover-image" style="border-radius: 10px; max-width: 100%; height: auto;">
+        <img src="https://github.com/goldsun2050-dev/goldsun2050-dev/blob/main/cover-image-hacker.png" alt="cover-image" style="border-radius: 10px; max-width: 100%; height: auto;">
       </td>
       <td valign="top" align="left" style="width: 50%;">
         <h1 style="font-size: 2.5em; margin-bottom: 0;">Hello 👋, I'm Full-Stack Developer, most focused on AI</h1>
@@ -86,3 +86,4 @@
 
 ----------------------------------------------------------------------
 Last Edited on: 29/4/2023
+
