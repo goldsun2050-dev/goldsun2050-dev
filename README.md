@@ -7,10 +7,10 @@
     <tr>
       <td align="left" style="width: 50%;">
         <h1 align="center" style="font-size: 3em; margin-bottom: 0; ">ﻬஐﻬ 天野 順 ﻬஐﻬ</h1>
-        <img src="https://github.com/GoldSun529/GoldSun529/blob/main/cover-image-hacker.jpg" alt="cover-image" style="border-radius: 10px; max-width: 100%; height: auto;">
+        <img src="https://github.com/goldsun2050-dev/goldsun2050-dev/blob/main/cover-image-hacker.jpg" alt="cover-image" style="border-radius: 10px; max-width: 100%; height: auto;">
       </td>
       <td valign="top" align="left" style="width: 50%;">
-        <h1 style="font-size: 2.5em; margin-bottom: 0;">Hello 👋, I'm Full-Stack Developer</h1>
+        <h1 style="font-size: 2.5em; margin-bottom: 0;">Hello 👋, I'm Full-Stack Developer, most focused on AI</h1>
         <h3>🛡️ Bug Bounty Hunter 🛡️</h3>
         <h3>🧠 System Explorer 🧠</h3> 
         <h3>🌟 Lead Tech Web Developer of Bitstake.io 🌟</h3>
@@ -22,29 +22,30 @@
 <table align="center">
   <tr>
     <td align="center"  width="27%" >
-      <img src="https://github.com/GoldSun529/GoldSun529/blob/main/cover-image.webp" alt="cover-image"style="border-radius: 10px;">
+      <img src="https://github.com/goldsun2050-dev/goldsun2050-dev/blob/main/cover-image.webp" alt="cover-image"style="border-radius: 10px;">
     </td>
     <td align="center"  width="40%">
-      <img src="https://github.com/GoldSun529/GoldSun529/blob/main/bitstake-cover.png" alt="cover-image" style="border-radius: 10px;">
+      <img src="https://github.com/goldsun2050-dev/goldsun2050-dev/blob/main/bitstake-cover.png" alt="cover-image" style="border-radius: 10px;">
     </td>
     <td align="center"  width="23%" >
-      <img src="https://github.com/GoldSun529/GoldSun529/blob/main/token-cover.png" alt="cover-image"style="border-radius: 10px;">
+      <img src="https://github.com/goldsun2050-dev/goldsun2050-dev/blob/main/token-cover.png" alt="cover-image"style="border-radius: 10px;">
     </td>
   </tr>
 </table>
 
 <pre>
-  I-am-vishalmaurya@github
+  I am Amano Jun from Japan
   -------------------------
-  💻 I am a self-taught Full Stack Developer and a Machine Learning Developer
-  📚 I have a Bachelor's in Computer Science from the University of Mumbai, India
-  📝 I have a strong interest in Data Science and Artificial Intelligence
-  🔭 Working on Deep Learning & Machine Learning
-  🌱 Learning about Computer Vision and Machine Learning stuff
-  🌟 Main languages: Python, JavaScript
-  🚩 Interested in Full Stack Machine Learning Application development
-  💖 In a complicated relationship with Neural Networks
-  🎵 Love metal, lofi, jazz, and soft music
+  💼 Senior AI Developer focused on backend systems, distributed architectures, and production-grade AI
+  🧠 Passionate about AI, LLMs, and scalable ML pipelines
+  🏗️ Experienced in building robust backend platforms for AI applications
+  🛠️ Comfortable in any programming language—strong with Python, Go, JS/TS, Rust
+  🔭 Working on LLM integrations, agent systems, and fast model deployment
+  ☁️ Skilled in MLOps, cloud platforms, and container orchestration
+  📚 Always exploring model optimization, vector DBs, and inference boosts
+  🤖 Love tackling complex problems where engineering meets AI
+  🎯 Interested in end-to-end AI product development
+  🎵 Music powered by ambient, synthwave, and deep-focus beats
 </pre>
 
 <!--h1 without bottom border-->
