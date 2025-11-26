@@ -12,7 +12,8 @@
       <td valign="top" align="left" style="width: 50%;">
         <h1 style="font-size: 2.5em; margin-bottom: 0;">Hello 👋, I'm Full-Stack Developer, most focused on AI</h1>
         <h3>🛡️ Bug Bounty Hunter 🛡️</h3>
-        <h3>🧠 System Explorer 🧠</h3> 
+        <h3>🧠 System Explorer 🧠</h3>
+        <h3>🧠 AI Expert 🧠</h3> 
         <h3>🌟 Lead Tech Web Developer of Bitstake.io 🌟</h3>
         <h3>💸 Equity Owner at Bitstake.io 💸</h3>
       </td>
@@ -86,4 +87,5 @@
 
 ----------------------------------------------------------------------
 Last Edited on: 29/4/2023
+
 
